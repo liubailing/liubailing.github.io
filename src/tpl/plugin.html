@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>测试Plugin 高级模板配置！</title>
+	<script type="text/javascript">
+		<%=compilation.assets[htmlWebpackPlugin.files.chunks["main"].entry.substring(htmlWebpackPlugin.files.publicPath.length)].source() %>
+	</script>
+</head>
+<body>
+	<div>
+		<%=htmlWebpackPlugin.options.title %>
+	</div>
+	<div id="divTest">
+	</div>
+
+	<% for(var  k in htmlWebpackPlugin.files.chunks) { %>
+		<% if(k!== "main") {%>
+		<script type="text/javascript" src='<%=htmlWebpackPlugin.files.chunks[k].entry %>' ></script>
+		<% } %>
+	<% } %>
+</body>
+</html>
