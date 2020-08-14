@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://liubailing.github.io/20200811/%E5%B7%A5%E7%A8%8B%E4%B9%8B%E8%B7%AFjenkins/</loc>
+    <lastmod>2020-08-14</lastmod>
+  </url>  <url>
+    <loc>https://liubailing.github.io/20200805/%E5%B7%A5%E7%A8%8B%E4%B9%8B%E8%B7%AFdocker/</loc>
+    <lastmod>2020-08-14</lastmod>
+  </url>  <url>
+    <loc>https://liubailing.github.io/20200722/electron/%E7%AA%97%E4%BD%93%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2020-07-22</lastmod>
+  </url>  <url>
+    <loc>https://liubailing.github.io/20160306/hello-world/</loc>
+    <lastmod>2020-07-22</lastmod>
+  </url>  <url>
     <loc>https://liubailing.github.io/20200705/%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2020-07-17</lastmod>
   </url>  <url>
@@ -65,9 +77,6 @@
     <lastmod>2020-03-08</lastmod>
   </url>  <url>
     <loc>https://liubailing.github.io/20160608/Visual%20Studio%20Code%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
-    <lastmod>2020-03-08</lastmod>
-  </url>  <url>
-    <loc>https://liubailing.github.io/20160306/hello-world/</loc>
     <lastmod>2020-03-08</lastmod>
   </url>
 </urlset>
